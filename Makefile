@@ -4,6 +4,5 @@ install:
 
 lint:
 	pylint --disable=R,C,W1203,W1202 *.py devopslib
-
-var =1 
-var = var	
+test:
+	python -m pytest -vv --cov=devopslib test_*.py

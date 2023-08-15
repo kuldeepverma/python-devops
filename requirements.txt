@@ -18,3 +18,4 @@ tomli
 tomlkit
 typing_extensions
 wrapt
+pytest-cov
