@@ -2,9 +2,11 @@
 
 ## Create  a project scaffold
 
-* Create development environment tat is cloud-based: 
+* Create development environment that is cloud-based: 
 
 ### Colab Notebook 
+
+* This is an example of how to use [colab]()
 ### Github Codespaces
 ### AWS cloudshell
 ### AWS Cloud9
