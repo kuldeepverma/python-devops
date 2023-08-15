@@ -1,5 +1,5 @@
 astroid==2.15.6
-black==23.7.0
+black
 click==8.1.6
 dill==0.3.7
 exceptiongroup==1.1.3
