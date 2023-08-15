@@ -18,7 +18,10 @@ Build out a python scaffold:
 * Dockerfile
 * commnd-line-tool
 * Microservice
-  
+
+1. Create a virtualenv: `virtualenv ~/.venv`
+2. edit my `~/.bashrc` to source venv
+
 ### AWS cloudshell
 ### AWS Cloud9
 
